@@ -1,0 +1,5 @@
+// npm create-react-app todo-tutorial
+
+npm install
+
+npm start
